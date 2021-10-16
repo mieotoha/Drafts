@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "524405b760e34b34",
+    "type": "split",
+    "children": [
+      {
+        "id": "730a9f033a5929ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithm/快速平方根倒数算法 alt.md",
+            "mode": "source"
+          }
+        },
+        "group": "9712edef0edf3cc6"
+      },
+      {
+        "id": "a341b2d70d98ce3a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Algorithm/快速平方根倒数算法 alt.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9712edef0edf3cc6"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "224129160dca191f",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e2f2a1e3d87734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "415594de11c413b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7528a01166cd013d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0adfecdd398b951d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20dba1094e5b791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e38f9efef09e431",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithm/快速平方根倒数算法 alt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a341b2d70d98ce3a",
+  "lastOpenFiles": [
+    "Algorithm/快速平方根倒数算法 alt.md",
+    "未命名.md",
+    "Algorithm/快速平方根倒数算法.md",
+    "Algorithm/秦九韶算法.md"
+  ]
+}
